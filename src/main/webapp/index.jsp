@@ -9,7 +9,7 @@
   </head>
   <body>
     <nav>
-      <a href="#"><img src="C:\Users\MAHAMMED SADIK ME\Pictures\WhatsApp Image 2024-09-29 at 9.26.19 PM - Copy.jpeg" alt="logo" /></a>
+      <a href="#"><img src="" alt="logo" /></a>
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
